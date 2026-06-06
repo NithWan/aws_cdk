@@ -19,7 +19,7 @@ It is a [Maven](https://maven.apache.org/) based project, so you can open this p
 
 Enjoy!
 =======
-# docparser-cdk
+# doc-cdk
 
 This project aims at spinning up the AWS resources using Java code through AWS Code Development Kit(CDK).
 
